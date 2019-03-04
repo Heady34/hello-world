@@ -1,6 +1,7 @@
 # hello-world
 Starter Repository for super newbie
-I am a chemistry teacher who has taken a 14 year break from research.  When I was last active in research, I was an experimentalist who did very basic computationz to support my experimental activities.  
+
+I am a chemistry teacher who has taken a 14 year break from research.  When I was last active in research, I was an experimentalist who did very basic computations to support my experimental activities.  
 
 I was a little intimidated by computational chemistry, so I actually favored the programs where you need to write your own scripts because they helped me keep track of what I was doing.  As I return to some simple research projects on the side (I am not research faculty, but primarily an instructor, but I've gotten to a point where I have some time to do small research on the side), I would like to get better with some of the popular open-source programming environments (specifically, python and R) because I am interested in providing some simple coding projects to my students.  
 
